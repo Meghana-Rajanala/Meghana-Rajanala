@@ -1,5 +1,5 @@
 # SAI VENKATA MEGHANA RAJANALA
-![LinkedIn Banner](https://www.linkedin.com/in/meghanarajanala/cover-photo.jpg) <!-- Make sure to replace the link with the actual URL of your LinkedIn banner image -->
+![LinkedIn Banner][(https://www.linkedin.com/in/meghanarajanala/cover-photo.jpg](https://media.licdn.com/dms/image/D5616AQEVlC0ZVR8nCw/profile-displaybackgroundimage-shrink_350_1400/0/1695723701097?e=1721260800&v=beta&t=l6nj91DAlyqgnR6DHu_d1RoF1aTM0bIVYJnrIblShmc)) <!-- Make sure to replace the link with the actual URL of your LinkedIn banner image -->
 ## 🛠 Skills
 - **Machine Learning**
 - **Salesforce Admin**
