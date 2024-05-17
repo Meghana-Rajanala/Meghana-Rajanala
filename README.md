@@ -1,5 +1,5 @@
 # SAI VENKATA MEGHANA RAJANALA
-
+![LinkedIn Banner](https://www.linkedin.com/in/meghanarajanala/cover-photo.jpg) <!-- Make sure to replace the link with the actual URL of your LinkedIn banner image -->
 ## 🛠 Skills
 - **Machine Learning**
 - **Salesforce Admin**
